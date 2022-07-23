@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Commands used
+
+npm install -D tailwindcss postcss autoprefixer
+npm install react-icons --save
+npx tailwindcss init -p
+
+
 ## Available Scripts
 
 In the project directory, you can run:
