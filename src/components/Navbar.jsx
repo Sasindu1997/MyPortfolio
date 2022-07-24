@@ -52,8 +52,9 @@ const Navbar = () => {
             {link}
           </li>
           ))}
+          
        </ul>)}
-       
+
     </div>
   )
 }
