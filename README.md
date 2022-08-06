@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 npm install -D tailwindcss postcss autoprefixer
 npm install react-icons --save
 npx tailwindcss init -p
-
+npm install react-scroll
 
 ## Available Scripts
 
